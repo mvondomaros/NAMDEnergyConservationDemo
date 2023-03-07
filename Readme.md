@@ -10,7 +10,7 @@
 
 * total energy drifts in NVE run if NAMD2 GPU acceleration is used
 
-[total energy drift](plots.png)
+![total energy drift](plots.png)
 
 ## Additional Details
 
